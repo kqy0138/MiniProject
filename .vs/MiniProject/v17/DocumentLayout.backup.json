@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\01\\UnityStudy\\MiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\unit\\unit_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\unit\\unit_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\unit\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\unit\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\unit\\enemydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\unit\\enemydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\unit\\enemytrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\unit\\enemytrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\turn\u0026decksystem\\card\\playercardinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\turn\u0026decksystem\\card\\playercardinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\turn\u0026decksystem\\card\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\turn\u0026decksystem\\card\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\unit\\battlecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\unit\\battlecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\turn\u0026decksystem\\card\\cardcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\turn\u0026decksystem\\card\\cardcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\turn\u0026decksystem\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\turn\u0026decksystem\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\turn\u0026decksystem\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\turn\u0026decksystem\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\buttonsoundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\buttonsoundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|d:\\unity\\01\\unitystudy\\miniproject\\assets\\02.script\\develop\\roomgenerate\\roomcontentspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\roomgenerate\\roomcontentspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\turn\u0026decksystem\\battleui_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\turn\u0026decksystem\\battleui_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\roomgenerate\\camerafollowexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\roomgenerate\\camerafollowexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\roomgenerate\\door\\doorspawnerexmple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\roomgenerate\\door\\doorspawnerexmple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\roomgenerate\\_myroomgraphgizmoexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\roomgenerate\\_myroomgraphgizmoexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\turn\u0026decksystem\\card\\handcardui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\turn\u0026decksystem\\card\\handcardui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\player\\playermove2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\player\\playermove2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\roomgenerate\\door\\doortriggerexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\roomgenerate\\door\\doortriggerexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\gamestatedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\gamestatedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\turn\u0026decksystem\\card\\cardhoverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\turn\u0026decksystem\\card\\cardhoverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\roomgenerate\\roomgraphexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\roomgenerate\\roomgraphexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\turn\u0026decksystem\\battlecardui_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\turn\u0026decksystem\\battlecardui_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\turn\u0026decksystem\\deckbuildmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\turn\u0026decksystem\\deckbuildmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\develop\\unit\\overworldenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\develop\\unit\\overworldenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\gamescenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\gamescenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\volumeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\volumeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|D:\\unity\\01\\UnityStudy\\MiniProject\\assets\\02.script\\scenebgmplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66081B4B-946B-B34E-28CA-5F652BD6D8BB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\scenebgmplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 253,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameStateDataManager.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\GameStateDataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\GameStateDataManager.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\GameStateDataManager.cs",
+              "RelativeToolTip": "Assets\\02.Script\\GameStateDataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T02:12:39.369Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DoorTriggerExample.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\RoomGenerate\\Door\\DoorTriggerExample.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\RoomGenerate\\Door\\DoorTriggerExample.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\RoomGenerate\\Door\\DoorTriggerExample.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\RoomGenerate\\Door\\DoorTriggerExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:46:03.667Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlayerMove2D.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Player\\PlayerMove2D.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Player\\PlayerMove2D.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Player\\PlayerMove2D.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Player\\PlayerMove2D.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:14:27.379Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyData.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Unit\\EnemyData.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Unit\\EnemyData.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Unit\\EnemyData.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Unit\\EnemyData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:17:58.141Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BattleUI_Manager.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\BattleUI_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\BattleUI_Manager.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\BattleUI_Manager.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\BattleUI_Manager.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAWwE0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:25:40.848Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BattleManager.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\BattleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\BattleManager.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\BattleManager.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\BattleManager.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:31:01.691Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TurnManager.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\TurnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\TurnManager.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\TurnManager.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\TurnManager.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAtwIIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:44:33.826Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HandCardUI.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\HandCardUI.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\HandCardUI.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\HandCardUI.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\HandCardUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T04:59:28.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_MyRoomGraphGizmoExample.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\RoomGenerate\\_MyRoomGraphGizmoExample.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\RoomGenerate\\_MyRoomGraphGizmoExample.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\RoomGenerate\\_MyRoomGraphGizmoExample.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\RoomGenerate\\_MyRoomGraphGizmoExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T03:58:23.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoorSpawnerExmple.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\RoomGenerate\\Door\\DoorSpawnerExmple.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\RoomGenerate\\Door\\DoorSpawnerExmple.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\RoomGenerate\\Door\\DoorSpawnerExmple.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\RoomGenerate\\Door\\DoorSpawnerExmple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T03:58:11.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CameraFollowExample.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\RoomGenerate\\CameraFollowExample.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\RoomGenerate\\CameraFollowExample.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\RoomGenerate\\CameraFollowExample.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\RoomGenerate\\CameraFollowExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:50:31.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomContentSpawner.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\RoomGenerate\\RoomContentSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\RoomGenerate\\RoomContentSpawner.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\RoomGenerate\\RoomContentSpawner.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\RoomGenerate\\RoomContentSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:43:58.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoomGraphExample.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\RoomGenerate\\RoomGraphExample.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\RoomGenerate\\RoomGraphExample.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\RoomGenerate\\RoomGraphExample.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\RoomGenerate\\RoomGraphExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:14:53.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unit_Player.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Unit\\Unit_Player.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Unit\\Unit_Player.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Unit\\Unit_Player.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Unit\\Unit_Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:35:33.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VolumeUI.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\VolumeUI.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\VolumeUI.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\VolumeUI.cs",
+              "RelativeToolTip": "Assets\\02.Script\\VolumeUI.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T11:39:46.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\SoundManager.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\02.Script\\SoundManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T11:39:26.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ButtonSoundEffect.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\ButtonSoundEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\ButtonSoundEffect.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\ButtonSoundEffect.cs",
+              "RelativeToolTip": "Assets\\02.Script\\ButtonSoundEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T11:30:32.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SceneBgmPlayer.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\SceneBgmPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\SceneBgmPlayer.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\SceneBgmPlayer.cs",
+              "RelativeToolTip": "Assets\\02.Script\\SceneBgmPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T11:21:00.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CardCatalog.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\CardCatalog.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\CardCatalog.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\CardCatalog.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\CardCatalog.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:40:55.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeckBuildManager.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\DeckBuildManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\DeckBuildManager.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\DeckBuildManager.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\DeckBuildManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:50:49.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyTrigger.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Unit\\EnemyTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Unit\\EnemyTrigger.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Unit\\EnemyTrigger.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Unit\\EnemyTrigger.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T10:21:54.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OverworldEnemy.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Unit\\OverworldEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Unit\\OverworldEnemy.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Unit\\OverworldEnemy.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Unit\\OverworldEnemy.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T10:21:48.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BattleCardUI_Manager.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\BattleCardUI_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\BattleCardUI_Manager.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\BattleCardUI_Manager.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\BattleCardUI_Manager.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAADwv24AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T14:57:28.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyBase.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Unit\\EnemyBase.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Unit\\EnemyBase.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Unit\\EnemyBase.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Unit\\EnemyBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T02:42:23.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TitleManager.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\TitleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\TitleManager.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\TitleManager.cs",
+              "RelativeToolTip": "Assets\\02.Script\\TitleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:19:12.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GameSceneManager.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\GameSceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\GameSceneManager.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\GameSceneManager.cs",
+              "RelativeToolTip": "Assets\\02.Script\\GameSceneManager.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:18:26.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BattleContext.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Unit\\BattleContext.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Unit\\BattleContext.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Unit\\BattleContext.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Unit\\BattleContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:18:39.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CardHoverHandler.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\CardHoverHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\CardHoverHandler.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\CardHoverHandler.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\CardHoverHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T14:48:07.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerCardInventory.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\PlayerCardInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\PlayerCardInventory.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\PlayerCardInventory.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\PlayerCardInventory.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T14:04:32.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardData.cs",
+              "DocumentMoniker": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\CardData.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\CardData.cs",
+              "ToolTip": "D:\\unity\\01\\UnityStudy\\MiniProject\\Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\CardData.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Develop\\Turn\u0026DeckSystem\\Card\\CardData.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:47:52.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

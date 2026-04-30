@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &112744545777110585
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3054257025412755724}
+  - component: {fileID: 1839159797563563672}
+  - component: {fileID: 5737454112400994163}
+  m_Layer: 0
+  m_Name: _MyRoomgenerateManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3054257025412755724
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112744545777110585}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1839159797563563672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112744545777110585}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad2830f1d98df0c4ba3170079864f0f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::typingGraph
+  seed: 12345
+  roomCount: 12
+  spacingX: 22
+  spacingY: 14
+  roomGizmoSize: 1.5
+  combatRatio: 0.5
+  shopRatio: 0.1
+  eventRatio: 0.1
+  startRoomPrefab: {fileID: 8971146097013924912, guid: 413147987e9fd584586e40035d59ca4f, type: 3}
+  normalRoomPrefab: {fileID: 9053459820687011152, guid: 004d089c4d4ba254d86202f6374b9d57, type: 3}
+  combatRoomPrefab: {fileID: 822555169286780384, guid: dc785eb1fbc7e304e8d82b8f608b67b0, type: 3}
+  shopRoomPrefab: {fileID: 894272998328097029, guid: fab28890aae70ea42acc4238d31bff1c, type: 3}
+  eventRoomPrefab: {fileID: 1462487860810274437, guid: 2aedda5849e91f046ab0380b146ceae7, type: 3}
+  bossRoomPrefab: {fileID: 3681733244272106694, guid: bbded85617aff524ca649f517ee1501d, type: 3}
+  doorSpawner: {fileID: 5737454112400994163}
+--- !u!114 &5737454112400994163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112744545777110585}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a85537d3d8036d408d40aead3a35e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DoorSpawnerExmple
+  dungeon: {fileID: 1839159797563563672}
+  doorPrefab: {fileID: 8138087264062838087, guid: 911a9bb984e1ac64697dbbf2e5543688, type: 3}
+  cameraController: {fileID: 0}

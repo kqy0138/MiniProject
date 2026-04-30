@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &612283994454334593
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7269133949522534103}
+  - component: {fileID: 3756182677292894639}
+  m_Layer: 0
+  m_Name: AllCardCatalog
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7269133949522534103
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 612283994454334593}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 17.36727, y: 3.97013, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3756182677292894639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 612283994454334593}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4db1d0c26cdfb58488edc7172de81e37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CardCatalog
+  allCards:
+  - cardId: test_None
+    displayCardName: Test Card
+    icon: {fileID: 0}
+    description: 
+    cardType: 0
+    cardCost: 0
+    abilityId: 0
+    value: 0
+  - cardId: atk_01
+    displayCardName: Fire Ball
+    icon: {fileID: 217608172, guid: aa5d56f9fff8c9a4981939a86961c6db, type: 3}
+    description: "\uBD88\uAF43 \uB369\uC5B4\uB9AC\uB97C \uC3F4\uC11C \uACF5\uACA9\uD569\uB2C8\uB2E4"
+    cardType: 1
+    cardCost: 1
+    abilityId: 1
+    value: 4
+  - cardId: atk_02
+    displayCardName: Snowflake
+    icon: {fileID: -69541648, guid: aa5d56f9fff8c9a4981939a86961c6db, type: 3}
+    description: "\uB208\uACB0\uC815\uC744 \uB0A0\uB824 \uACF5\uACA9\uD569\uB2C8\uB2E4"
+    cardType: 1
+    cardCost: 1
+    abilityId: 1
+    value: 4
+  - cardId: def_01
+    displayCardName: Ground Wall
+    icon: {fileID: -1728056009, guid: aa5d56f9fff8c9a4981939a86961c6db, type: 3}
+    description: "\uB545\uC758 \uD798\uC73C\uB85C \uBC29\uC5B4\uD569\uB2C8\uB2E4"
+    cardType: 2
+    cardCost: 1
+    abilityId: 2
+    value: 3
+  - cardId: def_02
+    displayCardName: Water Wall
+    icon: {fileID: 2146857393, guid: aa5d56f9fff8c9a4981939a86961c6db, type: 3}
+    description: "\uBB3C\uC758 \uD798\uC73C\uB85C \uBC29\uC5B4\uD569\uB2C8\uB2E4"
+    cardType: 2
+    cardCost: 1
+    abilityId: 2
+    value: 3
+  - cardId: skill_01
+    displayCardName: Tempesta
+    icon: {fileID: 2092354616, guid: aa5d56f9fff8c9a4981939a86961c6db, type: 3}
+    description: "\uD3ED\uD48D\uC6B0\uB85C \uAC15\uD558\uAC8C \uACF5\uACA9\uD569\uB2C8\uB2E4"
+    cardType: 3
+    cardCost: 2
+    abilityId: 4
+    value: 7
+  - cardId: skill_02
+    displayCardName: Leaf Shot
+    icon: {fileID: -1872203773, guid: aa5d56f9fff8c9a4981939a86961c6db, type: 3}
+    description: "\uB0A0\uCE74\uB85C\uC6B4 \uC78E\uC0AC\uADC0\uB85C \uAC15\uD558\uAC8C
+      \uACF5\uACA9\uD569\uB2C8\uB2E4"
+    cardType: 3
+    cardCost: 2
+    abilityId: 4
+    value: 7
+  - cardId: skill_03
+    displayCardName: Star Light
+    icon: {fileID: 541725958, guid: aa5d56f9fff8c9a4981939a86961c6db, type: 3}
+    description: "\uBCC4\uBE5B\uC758 \uAC00\uD638\uB85C \uD68C\uBCF5\uD569\uB2C8\uB2E4"
+    cardType: 3
+    cardCost: 2
+    abilityId: 6
+    value: 10
+  - cardId: skill_04
+    displayCardName: Rain Drop
+    icon: {fileID: -495146758, guid: aa5d56f9fff8c9a4981939a86961c6db, type: 3}
+    description: "\uBE57\uBC29\uC6B8\uB85C \uC0C1\uCC98\uB97C \uC53B\uC5B4\uB0C5\uB2C8\uB2E4"
+    cardType: 3
+    cardCost: 2
+    abilityId: 6
+    value: 10
+  - cardId: skill_05
+    displayCardName: The Sun
+    icon: {fileID: -881004056, guid: aa5d56f9fff8c9a4981939a86961c6db, type: 3}
+    description: "\uD0DC\uC591\uC758 \uD798\uC73C\uB85C \uACF5\uACA9\uD569\uB2C8\uB2E4"
+    cardType: 3
+    cardCost: 3
+    abilityId: 4
+    value: 13
+  - cardId: skill_06
+    displayCardName: The Moon
+    icon: {fileID: -1485980788, guid: aa5d56f9fff8c9a4981939a86961c6db, type: 3}
+    description: "\uB2EC\uC758 \uD798\uC73C\uB85C \uBC29\uC5B4\uD569\uB2C8\uB2E4"
+    cardType: 3
+    cardCost: 3
+    abilityId: 2
+    value: 10
